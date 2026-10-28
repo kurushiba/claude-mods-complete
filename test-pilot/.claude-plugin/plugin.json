@@ -1,0 +1,6 @@
+{
+  "name": "test-pilot",
+  "version": "0.1.0",
+  "description": "Skips npm test when the git state is unchanged since the last run and returns the previous output.",
+  "type": "./types/index.d.ts"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "budget-guard",
+  "version": "0.1.0",
+  "description": "予算の70%をこえたら、サブエージェントをHaiくに、90%をこえたら、メインを1段下のモデルに切り替えるMod",
+  "author": { "name": "kurushiba" },
+  "types": "./types/index.d.ts"
+}

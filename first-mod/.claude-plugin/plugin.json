@@ -1,0 +1,6 @@
+{
+  "name": "fisrt-mod",
+  "version": "0.1.0",
+  "description": "スピナーにツールの使用回数を出し、/tallyで答える最初のMod",
+  "author": { "name": "kurushiba" }
+}
